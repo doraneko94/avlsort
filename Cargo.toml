@@ -10,7 +10,7 @@ repository = "https://github.com/doraneko94/avlsort"
 keywords = ["mathematics", "algorithm", "avltree"]
 license = "MIT"
 readme = "README.md"
-categories = ["mathematics", "algorithm"]
+categories = ["mathematics", "algorithms", "data structures"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
