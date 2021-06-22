@@ -1,6 +1,6 @@
 [package]
 name = "avlsort"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["doraneko94 <shuntaro94@gmail.com>"]
 edition = "2018"
 
@@ -10,7 +10,7 @@ repository = "https://github.com/doraneko94/avlsort"
 keywords = ["mathematics", "algorithm", "avltree"]
 license = "MIT"
 readme = "README.md"
-categories = ["mathematics", "algorithms", "data structures"]
+categories = ["mathematics", "algorithms", "data-structures"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
