@@ -1,0 +1,19 @@
+[package]
+name = "avlsort"
+version = "0.1.0"
+authors = ["doraneko94 <shuntaro94@gmail.com>"]
+edition = "2018"
+
+description = "Rust crate of AVL tree holding the rank and the number of duplicates of elements."
+documentation = "https://docs.rs/avlsort/"
+repository = "https://github.com/doraneko94/avlsort"
+keywords = ["mathematics", "algorithm", "avltree"]
+license = "MIT"
+readme = "README.md"
+categories = ["mathematics", "algorithm"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+num-traits = "0.2.14"
+rand = "0.8.4"

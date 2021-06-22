@@ -1,15 +1,3 @@
-# avlsort
-
-Rust implementation of AVL tree.
-
-This tree holds the rank and the number of duplicates of the elements,
-and returns them when a new element is added.
-
-## Usage
-
-examples/avl.rs
-
-```rust
 use avlsort::tree::*;
 
 fn main() {
@@ -44,4 +32,3 @@ fn main() {
         }
     }
 }
-```
