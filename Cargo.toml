@@ -16,4 +16,4 @@ categories = ["mathematics", "algorithms", "data-structures"]
 
 [dependencies]
 num-traits = "0.2.14"
-rand = "0.8.4"
+rand = "0.8.3"
